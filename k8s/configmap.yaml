@@ -6,5 +6,5 @@ metadata:
 data:
   NODE_ENV: "production"
   PORT: "3000"
-  NEXT_PUBLIC_SUPABASE_URL: "https://VOTRE-PROJECT-ID.supabase.co"
-  NEXT_PUBLIC_SUPABASE_ANON_KEY: "VOTRE-ANON-KEY"
+  NEXT_PUBLIC_SUPABASE_URL: "https://sghaftpvmgiqsabmcawe.supabase.co"
+  NEXT_PUBLIC_SUPABASE_ANON_KEY: "sb_publishable_r2ANzOt2Vz9f1VCiyOg1VQ_-g9TS9Os"
