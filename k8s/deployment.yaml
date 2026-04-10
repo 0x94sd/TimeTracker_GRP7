@@ -29,7 +29,7 @@ spec:
                 topologyKey: kubernetes.io/hostname
       containers:
         - name: timetracker
-          image: ACCOUNT_ID.dkr.ecr.eu-west-3.amazonaws.com/timetracker:latest
+          image: 489205146548.dkr.ecr.eu-west-3.amazonaws.com/timetracker:latest
           ports:
             - containerPort: 3000
           resources:
